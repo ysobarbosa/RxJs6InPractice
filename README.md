@@ -1,3 +1,6 @@
+Conteúdo aprendido no curso RxJs In Practice Course da Angular University
+
+
 
 ## The RxJs In Practice Course
 
